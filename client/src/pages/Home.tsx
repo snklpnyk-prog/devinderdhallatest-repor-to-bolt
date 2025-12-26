@@ -6,7 +6,7 @@ import { WhatsAppButton } from "@/components/WhatsAppButton";
 import { Button } from "@/components/ui/button";
 import { 
   Brain, Heart, Users, Briefcase, Activity, Sparkles, 
-  CheckCircle2, Star, ShieldCheck, Clock
+  CheckCircle2, Star, ShieldCheck, Clock, ArrowRight
 } from "lucide-react";
 import { motion } from "framer-motion";
 
