@@ -1,0 +1,172 @@
+You are a senior UI/UX designer, frontend developer, and SEO expert.
+
+TASK:
+Create a fully modern, professional, responsive, and SEO-optimized website EXACTLY matching the provided screenshot layout and section structure.
+
+❗DO NOT SKIP ANY SECTION from the screenshot.
+❗UI spacing, alignment, card layouts, image placements, CTA positions, section order, and content flow must closely match the screenshot design.
+
+────────────────────────────
+CONTENT SOURCE (VERY IMPORTANT):
+Use 100% of the content ONLY from the attached PDF file titled:
+“Dr. Dhalla Project Report – Bhameshwari Counselling Centre®”
+
+- Do NOT invent content
+- Do NOT skip any section
+- Do NOT shorten meaning
+- Rewrite only for SEO readability while preserving the original intent and information
+────────────────────────────
+
+BRANDING & COLORS:
+Primary Color: #70B2B2  
+Secondary Color: #016B61  
+
+Accent Colors (modern & calming):
+- Soft Coral: #F4A896
+- Warm Beige: #FAF7F5
+- Charcoal Text: #2F2F2F
+- Light Mint Highlight: #DFF3F1
+
+Gradients:
+- Hero Gradient: linear-gradient(135deg, #70B2B2, #016B61)
+- CTA Gradient: linear-gradient(90deg, #016B61, #70B2B2)
+
+────────────────────────────
+TYPOGRAPHY:
+- Headings: Poppins or Playfair Display (modern, professional)
+- Body Text: Inter or Open Sans
+- Strong visual hierarchy
+- Large hero heading
+- Comfortable line-height and readable font sizes
+
+
+────────────────────────────
+WEBSITE STRUCTURE (MATCH SCREENSHOT EXACTLY):
+
+1. HEADER (Sticky)
+- Text-based logo (if image not provided)
+- Navigation:
+  Home | About | Services | Research | Team | Case Studies | Blog | Contact
+- Primary CTA Button: “Book Appointment”  and also add a whatsapp floating icon  
+
+2. HERO SECTION
+- Large headline similar to screenshot
+- Supporting paragraph from Introduction section of PDF
+- Primary CTA button
+- Background image with gradient overlay
+- Smooth fade-in animation on load
+
+3. ABOUT / INTRO VIDEO SECTION
+- Left side: Image or video placeholder
+- Right side: Founder & centre introduction content
+- Highlight badge: “12+ Years Experience” (styled like screenshot)
+
+4. FEATURE HIGHLIGHTS STRIP
+- 2–3 horizontally aligned cards
+- Content from:
+  - Vision
+  - Mission
+  - Ethical Practice / Confidentiality
+
+5. OUR SERVICES SECTION
+Grid layout EXACTLY like screenshot:
+- Individual Counselling
+- Stress, Anxiety & Depression Counselling
+- Couple & Relationship Counselling
+- Career Counselling & Guidance
+- Addiction Counselling
+- Specialized Therapies (CBT, MBCT, ACT, NLP)
+
+6. BOOK ONLINE APPOINTMENT CTA
+- Full-width colored section
+- Button: “Book Now”
+- Icons + labels:
+  - Online Sessions
+  - Offline Sessions
+  - 100% Confidential
+  - Trusted Professionals
+
+7. WHY CHOOSE US
+- Two-column layout
+- Left: Bullet points + text
+- Right: Image
+- Content from:
+  Impact, Client Trust, Credentials, Ratings, Recognition
+
+8. CASE STUDIES / SUCCESS STORIES
+- Image-based cards like screenshot
+- Ethical & anonymized descriptions
+
+9. MEET OUR TEAM
+- Card-based team layout
+- Founder + professional members
+- Design consistent with screenshot
+
+10. TESTIMONIALS / TRUST BADGES
+- Slider or card layout
+- 4.8 rating
+- Awards & recognitions from PDF
+
+11. LATEST NEWS & UPDATES
+- Blog-style cards
+- SEO-optimized headings and summaries
+
+12. FOOTER (Dark Theme)
+- About summary
+- Quick Links
+- Contact details
+- Social media icons
+- Copyright notice
+
+────────────────────────────
+WHATSAPP FLOATING BUTTON (MANDATORY):
+- Add a floating WhatsApp icon fixed at bottom-right
+- On click, redirect to:
+  https://wa.me/918923301425
+- Use WhatsApp brand green with subtle animation
+- Visible on all devices
+
+────────────────────────────
+RESPONSIVENESS:
+- Mobile-first design
+- Fully responsive for mobile, tablet, laptop, desktop
+- Collapsible hamburger menu on mobile
+- Optimized images for fast loading
+
+────────────────────────────
+SEO REQUIREMENTS (CRITICAL):
+- SEO-optimized meta title & meta description for every page
+- Proper H1 → H6 heading hierarchy
+- Schema Markup:
+  - LocalBusiness
+  - MedicalBusiness
+- Open Graph meta tags
+- Twitter Card meta tags
+- Canonical URLs
+- Internal linking
+- High performance & optimized images
+
+────────────────────────────
+TECH STACK:
+- HTML5
+- Tailwind CSS or modern CSS
+- JavaScript
+- Semantic HTML
+- Accessible markup (ARIA labels)
+
+────────────────────────────
+ANIMATIONS:
+- Smooth fade-in
+- Slide-up sections
+- Hover transitions
+- Subtle, professional motion only
+
+────────────────────────────
+EXTRA FILES (GENERATE):
+- sitemap.xml
+- robots.txt
+- SEO-ready folder structure
+
+────────────────────────────
+FINAL OUTPUT:
+Deliver a fully working, production-ready website that visually, structurally, and functionally MATCHES the provided screenshot design EXACTLY, while using ALL content from the attached PDF file.
